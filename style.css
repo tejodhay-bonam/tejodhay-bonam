@@ -611,6 +611,7 @@ p {
 		animation-delay: 0.8s;
 	}
 	#hero h1:nth-child(1) {
+		margin-left: 10px;
 		margin-top: 15px;
 		font-size: 0.8rem;
 	
