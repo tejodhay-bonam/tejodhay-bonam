@@ -67,7 +67,7 @@ p {
 	background-color: #fef681;
 }
 .brand h1 {
-	animation: fadeIn 1.5s ease-in-out;
+	animation: fadeIn 2s ease-in-out;
 	font-size: 2.8rem;
 	font-weight: 2000;
 	text-transform: capitalize;
@@ -78,7 +78,7 @@ p {
 	/* color: #fcfa43; */
 	/* color: #fdfc01; */
 	/* color: #a99aee; */
-	animation: fadeIn 1.5s ease-in-out;
+	animation: fadeIn 2s ease-in-out;
 	color: #7f80ea;
 
 
@@ -226,7 +226,7 @@ p {
 
 /* Hero Section */
 #hero {
-	animation: fadeIn 1.5s ease-in-out;
+	animation: fadeIn 1.8s ease-in-out;
 	background-image: url(./img/homepage2.jpg);
 	background-size: cover;
 	background-position: top center;
