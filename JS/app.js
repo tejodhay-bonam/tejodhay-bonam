@@ -43,10 +43,10 @@ document.addEventListener('scroll', () => {
   if (scroll_position > 100) {
       if (isMobile) {
           // Apply mobile-specific gradient
-          header.style.backgroundImage = 'linear-gradient(45deg, #fff64b, #c1c1c0, #ddbbe1, #3269fd)';
+          header.style.backgroundImage = 'linear-gradient(65deg, #fff64b, #c1c1c0, #ddbbe1, #3269fd)';
       } else {
           // Apply desktop-specific gradient
-          header.style.backgroundImage = 'linear-gradient(45deg, #fff64b, #feafa1, #c1c1c0, #ddbbe1, #3269fd)';
+          header.style.backgroundImage = 'linear-gradient(65deg, #fff64b, #feafa1, #c1c1c0, #ddbbe1, #3269fd)';
       }
   } else {
       header.style.backgroundImage = 'none'; // Reset the background image
